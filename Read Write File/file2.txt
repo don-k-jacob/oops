@@ -1,0 +1,6 @@
+New File
+This file is created as part of OOP Lab.
+File Successfully Written.
+
+Above Text Copied from file1.txt
+Operation Sucessful.
